@@ -1,0 +1,291 @@
+// !$*UTF8*$!
+{
+	044BDAA013826F9E001C8F49 /* Global.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {649, 792}}";
+			sepNavSelRange = "{185, 0}";
+			sepNavVisRange = "{0, 315}";
+		};
+	};
+	1D3623240D0F684500981E51 /* StrikeKnightAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {600, 815}}";
+			sepNavSelRange = "{379, 20}";
+			sepNavVisRange = "{0, 636}";
+		};
+	};
+	1D3623250D0F684500981E51 /* StrikeKnightAppDelegate.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1261}}";
+			sepNavSelRange = "{2711, 0}";
+			sepNavVisRange = "{815, 2102}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* StrikeKnight */ = {
+		activeExec = 0;
+		executables = (
+			3EB418F21382A18E002B8331 /* StrikeKnight */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* StrikeKnightViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {910, 815}}";
+			sepNavSelRange = "{373, 0}";
+			sepNavVisRange = "{0, 381}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* StrikeKnightViewController.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1012, 962}}";
+			sepNavSelRange = "{1317, 0}";
+			sepNavVisRange = "{760, 500}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 3EB418F21382A18E002B8331 /* StrikeKnight */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* StrikeKnight */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* StrikeKnight */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 3EB418FE1382A1B9002B8331 /* Code sense */;
+		executables = (
+			3EB418F21382A18E002B8331 /* StrikeKnight */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					732,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 327328142;
+			PBXWorkspaceStateSaveDate = 327328142;
+		};
+		perUserProjectItems = {
+			3EB41A541382AA7D002B8331 /* PBXTextBookmark */ = 3EB41A541382AA7D002B8331 /* PBXTextBookmark */;
+			3EB41A951382B76A002B8331 /* PBXTextBookmark */ = 3EB41A951382B76A002B8331 /* PBXTextBookmark */;
+			3EB41A961382B76A002B8331 /* PBXTextBookmark */ = 3EB41A961382B76A002B8331 /* PBXTextBookmark */;
+			3EB41A971382B76A002B8331 /* PBXBookmark */ = 3EB41A971382B76A002B8331 /* PBXBookmark */;
+			3EB41A991382B76A002B8331 /* PBXTextBookmark */ = 3EB41A991382B76A002B8331 /* PBXTextBookmark */;
+			3EB41B2913831F3B002B8331 /* PBXTextBookmark */ = 3EB41B2913831F3B002B8331 /* PBXTextBookmark */;
+			3EB41B2A13831F3B002B8331 /* PlistBookmark */ = 3EB41B2A13831F3B002B8331 /* PlistBookmark */;
+			3EB41B2B13831F3B002B8331 /* PBXTextBookmark */ = 3EB41B2B13831F3B002B8331 /* PBXTextBookmark */;
+			3EB41B2C13831F3B002B8331 /* PBXTextBookmark */ = 3EB41B2C13831F3B002B8331 /* PBXTextBookmark */;
+			3EB41B4B13832072002B8331 /* PBXTextBookmark */ = 3EB41B4B13832072002B8331 /* PBXTextBookmark */;
+			3EB41B4C13832072002B8331 /* PBXTextBookmark */ = 3EB41B4C13832072002B8331 /* PBXTextBookmark */;
+			3EB41B4D13832072002B8331 /* PBXTextBookmark */ = 3EB41B4D13832072002B8331 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 3EB418FD1382A1B9002B8331 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	3EB418F21382A18E002B8331 /* StrikeKnight */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = StrikeKnight;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	3EB418FD1382A1B9002B8331 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	3EB418FE1382A1B9002B8331 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	3EB418FF1382A20E002B8331 /* SinglePlayerViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {448, 792}}";
+			sepNavSelRange = "{296, 0}";
+			sepNavVisRange = "{0, 307}";
+		};
+	};
+	3EB419001382A20E002B8331 /* SinglePlayerViewController.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {663, 650}}";
+			sepNavSelRange = "{413, 0}";
+			sepNavVisRange = "{268, 430}";
+		};
+	};
+	3EB41A391382A632002B8331 /* ResourceManager.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {910, 815}}";
+			sepNavSelRange = "{529, 22}";
+			sepNavVisRange = "{0, 853}";
+		};
+	};
+	3EB41A3A1382A632002B8331 /* ResourceManager.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {918, 815}}";
+			sepNavSelRange = "{725, 35}";
+			sepNavVisRange = "{0, 808}";
+		};
+	};
+	3EB41A541382AA7D002B8331 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* StrikeKnightAppDelegate.h */;
+		name = "StrikeKnightAppDelegate.h: 17";
+		rLen = 20;
+		rLoc = 379;
+		rType = 0;
+		vrLen = 636;
+		vrLoc = 0;
+	};
+	3EB41A951382B76A002B8331 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 044BDAA013826F9E001C8F49 /* Global.h */;
+		name = "Global.h: 10";
+		rLen = 0;
+		rLoc = 185;
+		rType = 0;
+		vrLen = 315;
+		vrLoc = 0;
+	};
+	3EB41A961382B76A002B8331 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3EB418FF1382A20E002B8331 /* SinglePlayerViewController.h */;
+		name = "SinglePlayerViewController.h: 14";
+		rLen = 0;
+		rLoc = 296;
+		rType = 0;
+		vrLen = 307;
+		vrLoc = 0;
+	};
+	3EB41A971382B76A002B8331 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 044BD92613826F4D001C8F49 /* SK_BG.png */;
+	};
+	3EB41A991382B76A002B8331 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* StrikeKnightAppDelegate.mm */;
+		name = "StrikeKnightAppDelegate.mm: 79";
+		rLen = 0;
+		rLoc = 2711;
+		rType = 0;
+		vrLen = 2102;
+		vrLoc = 815;
+	};
+	3EB41B2913831F3B002B8331 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3EB41A3A1382A632002B8331 /* ResourceManager.mm */;
+		name = "ResourceManager.mm: 35";
+		rLen = 35;
+		rLoc = 725;
+		rType = 0;
+		vrLen = 808;
+		vrLoc = 0;
+	};
+	3EB41B2A13831F3B002B8331 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* StrikeKnight-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			NSMainNibFile,
+		);
+		name = "/Volumes/DATA/ChangCholJin/game/StrikeKnight/StrikeKnight-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	3EB41B2B13831F3B002B8331 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3EB419001382A20E002B8331 /* SinglePlayerViewController.mm */;
+		name = "SinglePlayerViewController.mm: 19";
+		rLen = 0;
+		rLoc = 492;
+		rType = 0;
+		vrLen = 1090;
+		vrLoc = 0;
+	};
+	3EB41B2C13831F3B002B8331 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3EB41A391382A632002B8331 /* ResourceManager.h */;
+		name = "ResourceManager.h: 33";
+		rLen = 22;
+		rLoc = 529;
+		rType = 0;
+		vrLen = 853;
+		vrLoc = 0;
+	};
+	3EB41B4B13832072002B8331 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* StrikeKnightViewController.mm */;
+		name = "StrikeKnightViewController.mm: 30";
+		rLen = 0;
+		rLoc = 647;
+		rType = 0;
+		vrLen = 1338;
+		vrLoc = 148;
+	};
+	3EB41B4C13832072002B8331 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* StrikeKnightViewController.h */;
+		name = "StrikeKnightViewController.h: 23";
+		rLen = 0;
+		rLoc = 381;
+		rType = 0;
+		vrLen = 381;
+		vrLoc = 0;
+	};
+	3EB41B4D13832072002B8331 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* StrikeKnightViewController.h */;
+		name = "StrikeKnightViewController.h: 19";
+		rLen = 0;
+		rLoc = 373;
+		rType = 0;
+		vrLen = 381;
+		vrLoc = 0;
+	};
+}
